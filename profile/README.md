@@ -7,9 +7,5 @@
       <p align="center">
     <a href="trywillon.hu">
     <strong>Discord »</strong></a>
-
-```
-                        Think different
-```
 </p>
 
